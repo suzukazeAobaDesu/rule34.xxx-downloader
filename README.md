@@ -9,3 +9,4 @@ rule34.py:
 After entering the tag, the program will search and download the searched videos and pictures on rule34. Support multi-tasking (download multiple sets of tags in order), support scheduled tasks, and support automatic shutdown after downloading.
 
 
+#########Please download the program file in the release.##############
